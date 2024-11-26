@@ -1,0 +1,13 @@
+# Ignore sensitive files
+top_secret.py
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+
